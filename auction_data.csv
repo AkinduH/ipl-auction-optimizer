@@ -54,7 +54,7 @@ Pawan Negi,Bowler,chennai-super-kings,2014,1000000
 Dinesh Karthik,Wicket Keeper,delhi-capitals,2014,125000000
 Kevin Pietersen,Batsman,delhi-capitals,2014,90000000
 Murali Vijay,Batsman,delhi-capitals,2014,50000000
-Mohammad Shami,Bowler,delhi-capitals,2014,42500000
+mohammed shami,Bowler,delhi-capitals,2014,42500000
 Nathan Coulter-Nile,Bowler,delhi-capitals,2014,42500000
 Quinton De Kock,Wicket Keeper,delhi-capitals,2014,35000000
 Manoj Tiwary,Batsman,delhi-capitals,2014,28000000
@@ -268,7 +268,7 @@ Sam Billings,Wicket Keeper,delhi-capitals,2016,3000000
 Chama Milind,Bowler,delhi-capitals,2016,1000000
 Pratyush Singh,All-Rounder,delhi-capitals,2016,1000000
 Mahipal Lomror,All-Rounder,delhi-capitals,2016,1000000
-Syed Khaleel Ahmed,All-Rounder,delhi-capitals,2016,1000000
+khaleel ahmed,All-Rounder,delhi-capitals,2016,1000000
 Akhil Arvind Herwadkar,All-Rounder,delhi-capitals,2016,1000000
 Pawan Suyal,Bowler,delhi-capitals,2016,1000000
 Praveen Kumar,Bowler,gujarat-titans,2016,35000000
@@ -431,7 +431,7 @@ Sam Billings,Wicket Keeper,chennai-super-kings,2018,10000000
 Imran Tahir,Bowler,chennai-super-kings,2018,10000000
 Deepak Chahar,All-Rounder,chennai-super-kings,2018,8000000
 Mitchell Santner,All-Rounder,chennai-super-kings,2018,5000000
-Lungisani Ngidi,Bowler,chennai-super-kings,2018,5000000
+lungi ngidi,Bowler,chennai-super-kings,2018,5000000
 Asif K M,Bowler,chennai-super-kings,2018,4000000
 N Jagadeesan,Wicket Keeper,chennai-super-kings,2018,2000000
 Kanishk Seth,All-Rounder,chennai-super-kings,2018,2000000
@@ -445,7 +445,7 @@ Amit Mishra,Bowler,delhi-capitals,2018,40000000
 Shahbaz Nadeem,Bowler,delhi-capitals,2018,32000000
 Vijay Shankar,All-Rounder,delhi-capitals,2018,32000000
 Rahul Tewatia,All-Rounder,delhi-capitals,2018,30000000
-Mohammad Shami,Bowler,delhi-capitals,2018,30000000
+mohammed shami,Bowler,delhi-capitals,2018,30000000
 Gautam Gambhir,Batsman,delhi-capitals,2018,28000000
 Trent Boult,Bowler,delhi-capitals,2018,22000000
 Colin Munro,All-Rounder,delhi-capitals,2018,19000000
@@ -569,7 +569,7 @@ Shikhar Dhawan,Batsman,sunrisers-hyderabad,2018,52000000
 Wriddhiman Saha,Wicket Keeper,sunrisers-hyderabad,2018,50000000
 Siddarth Kaul,Bowler,sunrisers-hyderabad,2018,38000000
 Deepak Hooda,All-Rounder,sunrisers-hyderabad,2018,36000000
-Syed Khaleel Ahmed,Bowler,sunrisers-hyderabad,2018,30000000
+khaleel ahmed,Bowler,sunrisers-hyderabad,2018,30000000
 Sandeep Sharma,Bowler,sunrisers-hyderabad,2018,30000000
 Kane Williamson,Batsman,sunrisers-hyderabad,2018,30000000
 Carlos Brathwaite,All-Rounder,sunrisers-hyderabad,2018,20000000
@@ -600,7 +600,7 @@ Nathu Singh,Bowler,delhi-capitals,2019,2000000
 Bandaru Ayyappa,Bowler,delhi-capitals,2019,2000000
 Varun Chakaravarthy,All-Rounder,punjab-kings,2019,84000000
 Sam Curran,All-Rounder,punjab-kings,2019,72000000
-Mohammad Shami,Bowler,punjab-kings,2019,48000000
+mohammed shami,Bowler,punjab-kings,2019,48000000
 Prabhsimran Singh,Wicket Keeper,punjab-kings,2019,48000000
 Nicolas Pooran,Wicket Keeper,punjab-kings,2019,42000000
 Moises Henriques,All-Rounder,punjab-kings,2019,10000000
@@ -675,7 +675,7 @@ Rahul Tripathi,Batsman,kolkata-knight-riders,2020,6000000
 Chris Green,All-Rounder,kolkata-knight-riders,2020,2000000
 Nikhil Shankar Naik,Wicket Keeper,kolkata-knight-riders,2020,2000000
 Pravin Tambe,Bowler,kolkata-knight-riders,2020,2000000
-M Siddharth,Bowler,kolkata-knight-riders,2020,2000000
+manimaran siddharth,Bowler,kolkata-knight-riders,2020,2000000
 Nathan Coulter-Nile,Bowler,mumbai-indians,2020,80000000
 Chris Lynn,Batsman,mumbai-indians,2020,20000000
 Saurabh Tiwary,Batsman,mumbai-indians,2020,5000000
@@ -721,7 +721,7 @@ Umesh Yadav,Bowler,delhi-capitals,2021,10000000
 Ripal Patel,All-Rounder,delhi-capitals,2021,2000000
 Vishnu Vinod,Wicket Keeper,delhi-capitals,2021,2000000
 Lukman Hussain Meriwala,Bowler,delhi-capitals,2021,2000000
-M Siddharth,Bowler,delhi-capitals,2021,2000000
+manimaran siddharth,Bowler,delhi-capitals,2021,2000000
 Shakib Al Hasan,All-Rounder,kolkata-knight-riders,2021,32000000
 Harbhajan Singh,Bowler,kolkata-knight-riders,2021,20000000
 Ben Cutting,All-Rounder,kolkata-knight-riders,2021,7500000
@@ -796,8 +796,8 @@ Sarfaraz Khan,All-Rounder,delhi-capitals,2022,2000000
 Kamlesh Nagarkoti,All-Rounder,delhi-capitals,2022,11000000
 K.S. Bharat,Wicket Keeper,delhi-capitals,2022,20000000
 Mandeep Singh,Batsman,delhi-capitals,2022,11000000
-Syed Khaleel Ahmed,Bowler,delhi-capitals,2022,52500000
-Lungisani Ngidi,Bowler,delhi-capitals,2022,5000000
+khaleel ahmed,Bowler,delhi-capitals,2022,52500000
+lungi ngidi,Bowler,delhi-capitals,2022,5000000
 Chetan Sakariya,Bowler,delhi-capitals,2022,42000000
 Yash Dhull,All-Rounder,delhi-capitals,2022,5000000
 Vicky Ostwal,All-Rounder,delhi-capitals,2022,2000000
@@ -806,7 +806,7 @@ Lalit Yadav,All-Rounder,delhi-capitals,2022,6500000
 Rovman Powell,Batsman,delhi-capitals,2022,28000000
 Tim Seifert,Wicket Keeper,delhi-capitals,2022,5000000
 Pravin Dubey,All-Rounder,delhi-capitals,2022,5000000
-Mohammad Shami,Bowler,gujarat-titans,2022,62500000
+mohammed shami,Bowler,gujarat-titans,2022,62500000
 David Miller,Batsman,gujarat-titans,2022,30000000
 Jason Roy,Batsman,gujarat-titans,2022,20000000
 Wriddhiman Saha,Wicket Keeper,gujarat-titans,2022,19000000
@@ -1084,7 +1084,7 @@ Chetan Sakariya,Bowler,kolkata-knight-riders,2024,5000000
 Sakib Hussain,Bowler,kolkata-knight-riders,2024,2000000
 Ashton Turner,Batter,lucknow-super-giants,2024,10000000
 David Willey,All-Rounder,lucknow-super-giants,2024,20000000
-M. Siddharth,Bowler,lucknow-super-giants,2024,24000000
+manimaran siddharth,Bowler,lucknow-super-giants,2024,24000000
 Shivam Mavi,Bowler,lucknow-super-giants,2024,64000000
 Arshin Kulkarni,All-Rounder,lucknow-super-giants,2024,2000000
 Mohd. Arshad Khan,All-Rounder,lucknow-super-giants,2024,2000000
@@ -1124,7 +1124,7 @@ Travis Head,Batter,sunrisers-hyderabad,2024,68000000
 Noor Ahmad,,chennai-super-kings,2025,100000000
 Ravichandran Ashwin,,chennai-super-kings,2025,97500000
 Devon Conway,,chennai-super-kings,2025,62500000
-Syed Khaleel Ahmed,,chennai-super-kings,2025,48000000
+khaleel ahmed,,chennai-super-kings,2025,48000000
 Rachin Ravindra,,chennai-super-kings,2025,40000000
 Anshul Kamboj,,chennai-super-kings,2025,34000000
 Rahul Tripathi,,chennai-super-kings,2025,34000000
@@ -1170,7 +1170,7 @@ Gerald Coetzee,,gujarat-titans,2025,24000000
 Glenn Phillips,,gujarat-titans,2025,20000000
 R. Sai Kishore,,gujarat-titans,2025,20000000
 Mahipal Lomror,,gujarat-titans,2025,17000000
-Gurnoor Singh Brar,,gujarat-titans,2025,13000000
+gurnoor brar,,gujarat-titans,2025,13000000
 Mohd. Arshad Khan,,gujarat-titans,2025,13000000
 Karim Janat,,gujarat-titans,2025,7500000
 Jayant Yadav,,gujarat-titans,2025,7500000
@@ -1205,12 +1205,12 @@ Shahbaz Ahamad,,lucknow-super-giants,2025,24000000
 Aiden Markram,,lucknow-super-giants,2025,20000000
 Matthew Breetzke,,lucknow-super-giants,2025,7500000
 Shamar Joseph,,lucknow-super-giants,2025,7500000
-M. Siddharth,,lucknow-super-giants,2025,7500000
+manimaran siddharth,,lucknow-super-giants,2025,7500000
 Arshin Kulkarni,,lucknow-super-giants,2025,3000000
 Rajvardhan Hangargekar,,lucknow-super-giants,2025,3000000
 Yuvraj Chaudhary,,lucknow-super-giants,2025,3000000
 Prince Yadav,,lucknow-super-giants,2025,3000000
-Akash Singh,,lucknow-super-giants,2025,3000000
+akash maharaj singh,,lucknow-super-giants,2025,3000000
 Digvesh Singh,,lucknow-super-giants,2025,3000000
 Himmat Singh,,lucknow-super-giants,2025,3000000
 Aryan Juyal,,lucknow-super-giants,2025,3000000
@@ -1243,7 +1243,7 @@ Priyansh Arya,,punjab-kings,2025,38000000
 Josh Inglis,,punjab-kings,2025,26000000
 Azmatullah Omarzai,,punjab-kings,2025,24000000
 Lockie Ferguson,,punjab-kings,2025,20000000
-Vyshak Vijaykumar,,punjab-kings,2025,18000000
+vijaykumar vyshak,,punjab-kings,2025,18000000
 Yash Thakur,,punjab-kings,2025,16000000
 Harpreet Brar,,punjab-kings,2025,15000000
 Aaron Hardie,,punjab-kings,2025,12500000
@@ -1274,7 +1274,7 @@ Phil Salt,,royal-challengers-bengaluru,2025,115000000
 Jitesh Sharma,,royal-challengers-bengaluru,2025,110000000
 Bhuvneshwar Kumar,,royal-challengers-bengaluru,2025,107500000
 Liam Livingstone,,royal-challengers-bengaluru,2025,87500000
-Rasikh Dar,,royal-challengers-bengaluru,2025,60000000
+rasikh dar salam,,royal-challengers-bengaluru,2025,60000000
 Krunal Pandya,,royal-challengers-bengaluru,2025,57500000
 Tim David,,royal-challengers-bengaluru,2025,30000000
 Jacob Bethell,,royal-challengers-bengaluru,2025,26000000
@@ -1282,14 +1282,14 @@ Suyash Sharma,,royal-challengers-bengaluru,2025,26000000
 Devdutt Padikkal,,royal-challengers-bengaluru,2025,20000000
 Nuwan Thushara,,royal-challengers-bengaluru,2025,16000000
 Romario Shepherd,,royal-challengers-bengaluru,2025,15000000
-Lungisani Ngidi,,royal-challengers-bengaluru,2025,10000000
+lungi ngidi,,royal-challengers-bengaluru,2025,10000000
 Swapnil Singh,,royal-challengers-bengaluru,2025,5000000
 Mohit Rathee,,royal-challengers-bengaluru,2025,3000000
 Abhinandan Singh,,royal-challengers-bengaluru,2025,3000000
 Swastik Chhikara,,royal-challengers-bengaluru,2025,3000000
 Manoj Bhandage,,royal-challengers-bengaluru,2025,3000000
 Ishan Kishan,,sunrisers-hyderabad,2025,112500000
-Mohammad Shami,,sunrisers-hyderabad,2025,100000000
+mohammed shami,,sunrisers-hyderabad,2025,100000000
 Harshal Patel,,sunrisers-hyderabad,2025,80000000
 Abhinav Manohar,,sunrisers-hyderabad,2025,32000000
 Rahul Chahar,,sunrisers-hyderabad,2025,32000000
