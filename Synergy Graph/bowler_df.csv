@@ -1,70 +1,39 @@
 name,country,role,bowl_style,t20_wkts,t20_bowl_econ,t20_bowl_avg,t20_bowl_sr,ipl_wkts,ipl_bowl_econ,ipl_bowl_avg,ipl_bowl_sr
-kyle jamieson,new zealand,bowler,right-arm-fast-medium,10,9.29,41.2,26.6,9,9.61,29.89,18.67
-ishant sharma,india,bowler,right-arm-fast-medium,8,8.63,50.0,34.75,92,8.24,34.48,25.1
-mukesh kumar,india,bowler,right-arm-fast-medium,20,9.02,24.35,16.2,24,10.44,28.92,16.63
-shivam mavi,india,bowler,right-arm-fast-medium,7,8.79,17.57,12.0,30,8.71,31.4,21.63
-mohit sharma,india,bowler,right-arm-fast-medium,6,8.04,30.83,23.0,132,8.67,24.67,17.07
-joshua little,ireland,bowler,left-arm-fast-medium,78,7.51,24.49,19.56,11,8.92,30.82,20.73
-kulwant khejroliya,india,bowler,left-arm-fast-medium,0,0.0,0.0,0.0,5,10.76,43.4,24.2
-vaibhav arora,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,19,9.18,30.84,20.16
-suyash sharma,india,bowler,right-arm-legbreak,0,0.0,0.0,0.0,10,8.65,37.2,25.8
-amit mishra,india,bowler,right-arm-legbreak,16,6.32,15.0,14.25,174,7.38,23.82,19.37
-yash thakur,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,24,10.26,28.79,16.83
-naveen-ul-haq,afghanistan,bowler,right-arm-fast-medium,67,7.79,18.73,14.43,25,9.16,23.64,15.48
-jaydev unadkat,india,bowler,left-arm-fast-medium,14,8.68,21.5,14.86,99,8.98,32.21,21.53
-jhye richardson,australia,bowler,right-arm-fast,19,8.42,29.26,20.84,3,10.47,52.33,30.0
-raghav goyal,india,bowler,left-arm-wrist-spin,0,0.0,0.0,0.0,0,8.25,0.0,0.0
-duan jansen,south africa,bowler,left-arm-fast,0,0.0,0.0,0.0,1,13.25,53.0,24.0
-vidhwath kaverappa,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,2,9.0,18.0,12.0
-adam zampa,australia,bowler,right-arm-legbreak,117,7.17,21.01,17.58,29,7.99,19.24,14.45
-murugan ashwin,india,bowler,right-arm-legbreak,0,0.0,0.0,0.0,35,8.01,33.2,24.86
-km asif,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,7,10.42,33.0,19.0
-himanshu sharma,india,bowler,right-arm-legbreak,0,0.0,0.0,0.0,0,11.4,0.0,0.0
-reece topley,england,bowler,left-arm-fast-medium,33,8.31,29.64,21.39,5,10.71,36.4,20.4
-akeal hosein,west indies,bowler,left-arm-orthodox,60,7.16,26.98,22.6,1,10.0,40.0,24.0
-mayank markande,india,bowler,right-arm-legbreak,0,7.75,0.0,0.0,37,8.91,28.89,19.46
-adil rashid,england,bowler,right-arm-legbreak,131,7.36,24.35,19.85,2,9.1,45.5,30.0
-mustafizur rahman,bangladesh,bowler,left-arm-fast-medium,132,7.52,21.62,17.26,61,8.14,28.89,21.28
-rasikh dar salam,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,9,10.43,37.67,21.67
-kartik tyagi,india,bowler,right-arm-fast,0,0.0,0.0,0.0,15,10.14,47.53,28.13
-spencer johnson,australia,bowler,left-arm-fast,14,8.96,17.07,11.43,4,9.44,37.75,24.0
-manav suthar,india,bowler,left-arm-orthodox,0,0.0,0.0,0.0,0,13.0,0.0,0.0
-umesh yadav,india,bowler,right-arm-fast,12,9.33,23.33,15.0,144,8.49,29.98,21.18
-mujeeb ur rahman,afghanistan,bowler,right-arm-offbreak,63,6.34,18.11,17.14,19,8.18,31.16,22.84
-gus atkinson,england,bowler,right-arm-fast-medium,6,11.26,20.33,10.83,0,0.0,0.0,0.0
-chetan sakariya,india,bowler,left-arm-fast-medium,1,9.27,34.0,22.0,20,8.44,29.95,21.3
-manimaran siddharth,india,bowler,left-arm-orthodox,0,0.0,0.0,0.0,1,7.89,71.0,54.0
-dilshan madushanka,sri lanka,bowler,left-arm-fast-medium,15,9.78,31.93,19.6,0,0.0,0.0,0.0
-shreyas gopal,india,bowler,right-arm-legbreak,0,0.0,0.0,0.0,52,8.16,25.92,19.06
-nuwan thushara,sri lanka,bowler,right-arm-fast-medium,26,7.65,16.73,13.12,8,9.88,32.13,19.5
-gerald coetzee,south africa,bowler,right-arm-fast,12,10.57,30.25,17.17,13,10.18,26.23,15.46
-harshal patel,india,bowler,right-arm-fast-medium,29,9.18,26.55,17.34,135,8.74,23.33,16.01
-nandre burger,south africa,bowler,left-arm-fast-medium,1,12.29,86.0,42.0,7,8.53,20.71,14.57
-lockie ferguson,new zealand,bowler,right-arm-fast,64,7.1,16.98,14.36,46,8.96,31.0,20.76
-alzarri joseph,west indies,bowler,right-arm-fast,54,8.68,22.5,15.56,21,9.55,32.9,20.67
-yash dayal,india,bowler,left-arm-fast-medium,0,0.0,0.0,0.0,28,9.57,32.86,20.61
-akash maharaj singh,india,bowler,left-arm-fast-medium,0,0.0,0.0,0.0,5,9.87,45.4,27.6
-pat cummins,australia,bowler,right-arm-fast,66,7.44,23.58,19.0,63,8.75,30.52,20.94
 khaleel ahmed,india,bowler,left-arm-fast-medium,16,8.52,35.13,24.75,74,8.84,25.42,17.24
 nathan ellis,australia,bowler,right-arm-fast-medium,32,7.66,16.91,13.25,18,8.61,28.22,19.67
 jamie overton,england,bowler,right-arm-fast,11,8.21,16.91,12.36,0,0.0,0.0,0.0
+shreyas gopal,india,bowler,right-arm-legbreak,0,0.0,0.0,0.0,52,8.16,25.92,19.06
 kamlesh nagarkoti,india,bowler,right-arm-fast,0,0.0,0.0,0.0,5,9.5,57.0,36.0
 mukesh choudhary,india,bowler,left-arm-fast-medium,0,0.0,0.0,0.0,16,9.7,28.19,17.44
+mukesh kumar,india,bowler,right-arm-fast-medium,20,9.02,24.35,16.2,24,10.44,28.92,16.63
+mohit sharma,india,bowler,right-arm-fast-medium,6,8.04,30.83,23.0,132,8.67,24.67,17.07
 dushmantha chameera,sri lanka,bowler,right-arm-fast,55,8.09,28.87,21.42,9,9.19,48.0,31.33
 kagiso rabada,south africa,bowler,right-arm-fast,71,8.3,27.15,19.62,117,8.48,21.97,15.54
 prasidh krishna,india,bowler,right-arm-fast,8,11.0,27.5,15.0,49,8.92,34.76,23.37
+gerald coetzee,south africa,bowler,right-arm-fast,12,10.57,30.25,17.17,13,10.18,26.23,15.46
 gurnoor brar,india,bowler,right-arm-fast,0,0.0,0.0,0.0,0,14.0,0.0,0.0
+ishant sharma,india,bowler,right-arm-fast-medium,8,8.63,50.0,34.75,92,8.24,34.48,25.1
+kulwant khejroliya,india,bowler,left-arm-fast-medium,0,0.0,0.0,0.0,5,10.76,43.4,24.2
+manav suthar,india,bowler,left-arm-orthodox,0,0.0,0.0,0.0,0,13.0,0.0,0.0
 anrich nortje,south africa,bowler,right-arm-fast,53,7.01,19.17,16.4,60,8.96,26.23,17.57
+spencer johnson,australia,bowler,left-arm-fast,14,8.96,17.07,11.43,4,9.44,37.75,24.0
+vaibhav arora,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,19,9.18,30.84,20.16
 umran malik,india,bowler,right-arm-fast,11,10.49,22.09,12.64,29,9.4,26.62,17.0
+mayank markande,india,bowler,right-arm-legbreak,0,7.75,0.0,0.0,37,8.91,28.89,19.46
 avesh khan,india,bowler,right-arm-fast,27,9.04,27.85,18.48,74,8.87,26.68,18.04
 akash deep,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,7,11.67,45.57,23.43
 shamar joseph,west indies,bowler,right-arm-fast,10,9.68,27.1,16.8,0,11.75,0.0,0.0
+manimaran siddharth,india,bowler,left-arm-orthodox,0,0.0,0.0,0.0,1,7.89,71.0,54.0
+akash maharaj singh,india,bowler,left-arm-fast-medium,0,0.0,0.0,0.0,5,9.87,45.4,27.6
 deepak chahar,india,bowler,right-arm-fast-medium,31,8.3,24.1,17.42,77,7.98,28.84,21.68
 lizaad williams,south africa,bowler,right-arm-fast-medium,20,9.5,24.55,15.5,1,12.0,72.0,36.0
+reece topley,england,bowler,left-arm-fast-medium,33,8.31,29.64,21.39,5,10.71,36.4,20.4
 karn sharma,india,bowler,right-arm-legbreak,1,7.0,28.0,24.0,76,8.38,27.46,19.67
 yuzvendra chahal,india,bowler,right-arm-legbreak,96,8.19,25.09,18.38,205,7.84,22.45,17.18
 arshdeep singh,india,bowler,left-arm-fast-medium,99,8.3,18.3,13.23,76,9.03,27.0,17.95
+lockie ferguson,new zealand,bowler,right-arm-fast,64,7.1,16.98,14.36,46,8.96,31.0,20.76
 vijaykumar vyshak,india,bowler,right-arm-medium,0,0.0,0.0,0.0,13,10.26,30.38,17.77
+yash thakur,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,24,10.26,28.79,16.83
 xavier bartlett,australia,bowler,right-arm-fast-medium,11,6.85,14.73,12.91,0,0.0,0.0,0.0
 tushar deshpande,india,bowler,right-arm-fast-medium,2,9.33,28.0,18.0,42,9.65,29.6,18.4
 maheesh theekshana,sri lanka,bowler,right-arm-offbreak,58,6.88,26.57,23.17,25,7.66,31.88,24.96
@@ -73,8 +42,14 @@ kwena maphaka,south africa,bowler,left-arm-fast-medium,3,9.98,56.0,33.67,1,14.83
 akash madhwal,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,19,9.71,22.32,13.79
 josh hazlewood,australia,bowler,right-arm-fast-medium,67,7.49,22.1,17.7,35,8.06,23.14,17.23
 bhuvneshwar kumar,india,bowler,right-arm-fast-medium,90,6.96,23.1,19.9,181,7.56,27.23,21.6
+rasikh dar salam,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,9,10.43,37.67,21.67
+suyash sharma,india,bowler,right-arm-legbreak,0,0.0,0.0,0.0,10,8.65,37.2,25.8
+nuwan thushara,sri lanka,bowler,right-arm-fast-medium,26,7.65,16.73,13.12,8,9.88,32.13,19.5
 lungi ngidi,south africa,bowler,right-arm-fast,63,9.24,20.95,13.6,25,8.3,17.92,12.96
 mohammed shami,india,bowler,right-arm-fast,27,8.95,28.19,18.89,127,8.44,26.86,19.1
+harshal patel,india,bowler,right-arm-fast-medium,29,9.18,26.55,17.34,135,8.74,23.33,16.01
 rahul chahar,india,bowler,right-arm-legbreak,7,7.59,23.86,18.86,75,7.72,28.55,22.19
+adam zampa,australia,bowler,right-arm-legbreak,117,7.17,21.01,17.58,29,7.99,19.24,14.45
 simarjeet singh,india,bowler,right-arm-fast-medium,0,0.0,0.0,0.0,9,8.63,28.78,20.0
 brydon carse,england,bowler,right-arm-fast,15,8.07,15.07,11.2,0,0.0,0.0,0.0
+jaydev unadkat,india,bowler,left-arm-fast-medium,14,8.68,21.5,14.86,99,8.98,32.21,21.53
